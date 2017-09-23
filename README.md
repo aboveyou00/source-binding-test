@@ -9,7 +9,6 @@ Outer bottom x2!
 Two (1)
 Outer bottom!
 Three (2)
-Six (4)
 Four (6)
 Seven (6)
 Fifteen (11)
