@@ -3,8 +3,6 @@
 Twenty-four (13)
 Twenty-five v1 (13)
 Orangutan!!!!
-Twenty-five v2 (13)
-Outer top!
 One (1)
 Sixteen (12)
 Eight (4)
