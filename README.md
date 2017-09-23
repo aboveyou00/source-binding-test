@@ -1,8 +1,8 @@
 # Source binding test
 
 Twenty-four (13)
-Twenty-five v1 (13)
-Twenty-five v2 (13)
+Twnety-five v1 (13)
+Twnety-five v2 (13)
 Outer top!
 One (1)
 Sixteen (12)
