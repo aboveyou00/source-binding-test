@@ -8,7 +8,6 @@ Eight (4)
 Outer bottom x2!
 Two (1)
 Outer bottom!
-Three (2)
 Seven (6)
 Fifteen (11)
 Seventeen (12)
