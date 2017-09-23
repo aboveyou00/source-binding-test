@@ -6,6 +6,7 @@ Outer top!
 One (1)
 Sixteen (12)
 Eight (4)
+Twenty-six (14)
 Outer bottom x2!
 Two (1)
 Seven (6)
