@@ -1,5 +1,6 @@
 # Source binding test
 
+Outer top x2!
 Outer top!
 One (1)
 Sixteen (12)
