@@ -4,10 +4,12 @@ Twenty-four (13)
 Twenty-five v1 (13)
 Orangutan!!!!
 Twenty-five v2 (13)
+Add outer top
 Outer top!
 One (1)
 Sixteen (12)
 Eight (4)
+Add outer bottom
 Twenty-six (14)
 Outer bottom x2!
 Two (1)
