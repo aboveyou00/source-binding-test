@@ -1,6 +1,7 @@
 # Source binding test
 
 One (1)
+Sixteen (12)
 Eight (4)
 Two (1)
 Three (2)
@@ -9,6 +10,7 @@ Four (6)
 Eleven (7)
 Seven (6)
 Fifteen (11)
+Seventeen (12)
 Thirteen (9)
 Fourteen (10)
 Five (1)
