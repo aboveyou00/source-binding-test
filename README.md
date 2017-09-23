@@ -1,7 +1,7 @@
 # Source binding test
 
 Twenty-four (13)
-Twnety-five (13)
+Twenty-five (13)
 Outer top!
 One (1)
 Sixteen (12)
